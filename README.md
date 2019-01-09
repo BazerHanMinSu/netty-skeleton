@@ -1,16 +1,18 @@
 # netty-skeleton
 
-# Netty란?
+
+
+## Netty란?
 
 - 네트워크 어플리케이션을 빠르고 쉽게 개발하는 것을 가은하게 해주는 NIO 클라이언트 서버 프레임워크이다.
 - 참고 : [http://sshinbdev.tistory.com/6](http://sshinbdev.tistory.com/6)
 
 
 
-# Netty 소켓 사용 예제
+## Netty 소켓 사용 예제
 
-- Netty 설치 및 채팅 구현 : [https://www.youtube.com/watch?v=tsz-assb1X8](https://www.youtube.com/watch?v=tsz-assb1X8)
-    - 영상 : [https://www.youtube.com/watch?v=tsz-assb1X8](https://www.youtube.com/watch?v=tsz-assb1X8)
+- Netty 설치(0:00 ~ 1:15) : [https://www.youtube.com/watch?v=tsz-assb1X8](https://www.youtube.com/watch?v=tsz-assb1X8)
+    - 영상(1:15초 이후) : [https://www.youtube.com/watch?v=tsz-assb1X8](https://www.youtube.com/watch?v=tsz-assb1X8)
 
         - 일부 코드 수정필요
 
