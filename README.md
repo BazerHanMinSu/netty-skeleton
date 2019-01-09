@@ -12,6 +12,8 @@
 ## Netty 소켓 사용 예제
 
 - Netty 설치(0:00 ~ 1:15) : [https://www.youtube.com/watch?v=tsz-assb1X8](https://www.youtube.com/watch?v=tsz-assb1X8)
+
+- Netty를 활용한 채팅 코드
     - 영상(1:15초 이후) : [https://www.youtube.com/watch?v=tsz-assb1X8](https://www.youtube.com/watch?v=tsz-assb1X8)
 
         - 일부 코드 수정필요
