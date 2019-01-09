@@ -4,7 +4,7 @@
 
 ## Netty란?
 
-- 네트워크 어플리케이션을 빠르고 쉽게 개발하는 것을 가은하게 해주는 NIO 클라이언트 서버 프레임워크이다.
+- 네트워크 어플리케이션을 빠르고 쉽게 개발하는 것을 가능하게 해주는 NIO 클라이언트 서버 프레임워크이다.
 - 참고 : [http://sshinbdev.tistory.com/6](http://sshinbdev.tistory.com/6)
 
 
